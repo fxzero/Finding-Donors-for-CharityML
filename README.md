@@ -6,11 +6,11 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
-Python
-NumPy
-pandas
-scikit-learn (v0.17)
-Matplotlib
+.Python
+.NumPy
+.pandas
+.scikit-learn (v0.17)
+.Matplotlib
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
