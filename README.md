@@ -32,9 +32,9 @@ This project is from Udacity's supervised learning project. It use three model t
 
 ## Files Description<a name="files"></a>
 
-**finding_donors.ipynb** 
+**finding_donors.ipynb** Main file of the project, it demonstrates the process of using supervised learning to explore data.
 
-**visuals.py** 
+**visuals.py** A file visualize the results of supervised learning methods, it is used in finding_donors.ipynb.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
