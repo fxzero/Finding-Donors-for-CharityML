@@ -28,7 +28,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Project Motivation<a name="motivation"></a>
 
-This project is from Udacity's supervise learning project. It use three model to predict whether a donor's salary is above 50k.
+This project is from Udacity's supervised learning project. It use three model to predict whether a donor's salary is above 50k.
 
 ## Files Description<a name="files"></a>
 
